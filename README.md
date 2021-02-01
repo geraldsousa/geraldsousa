@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 
 ![Node](https://icon2.cleanpng.com/20180425/xeq/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84de7b809.1939946215246930699491.jpg)
 
-And: 
 ![PHP](https://www.tangleskills.com/wp-content/uploads/pm.png)
 
 ⚡ Fun fact: I Love to golf. ⛳️
