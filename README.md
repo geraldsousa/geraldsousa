@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 🌱 I’m currently Learning:
 ![JS](https://www.pikpng.com/pngl/m/150-1506141_html-css-and-javascript-logo-html5-css3-js.png)
 
-And:
 ![Node](https://icon2.cleanpng.com/20180425/xeq/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84de7b809.1939946215246930699491.jpg)
 
 And: 
