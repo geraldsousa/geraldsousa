@@ -24,10 +24,6 @@ Here are some ideas to get you started:
 
 ![Node/MongoDB/GraphQL](https://miro.medium.com/max/1113/1*rhpr5EnxrphBwqyTus0jmg.png)
 
-![Node](https://icon2.cleanpng.com/20180425/xeq/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84de7b809.1939946215246930699491.jpg)
-![MongoDB](https://sebastianbodenstein.net/project/mongolink/featured.png)
-![GraphQL](https://miro.medium.com/max/400/1*nP2C50GK4_-ly_R_mq3juQ.png)
-
 ![Oracle](https://renaps.com/upload/renaps.com/oracledblogo.png)
 
 ⚡ Fun fact: I Love to golf. ⛳️
