@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 ![JS](https://www.pikpng.com/pngl/m/150-1506141_html-css-and-javascript-logo-html5-css3-js.png)
 
 ![Node](https://icon2.cleanpng.com/20180425/xeq/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84de7b809.1939946215246930699491.jpg)
-
 ![MongoDB](https://sebastianbodenstein.net/project/mongolink/featured.png)
 ![GraphQL](https://miro.medium.com/max/400/1*nP2C50GK4_-ly_R_mq3juQ.png)
 
