@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ![MongoDB](https://sebastianbodenstein.net/project/mongolink/featured.png)
 
-![GraphQL](https://miro.medium.com/max/400/1*nP2C50GK4_-ly_R_mq3juQ.png)
+[GraphQL](https://miro.medium.com/max/400/1*nP2C50GK4_-ly_R_mq3juQ.png)
 
 ![Oracle](https://renaps.com/upload/renaps.com/oracledblogo.png)
 
