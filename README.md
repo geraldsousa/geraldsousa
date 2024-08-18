@@ -22,5 +22,4 @@ Here are some ideas to get you started:
 
 ![JS](https://www.pikpng.com/pngl/m/150-1506141_html-css-and-javascript-logo-html5-css3-js.png)
 
-
 ![Oracle](https://renaps.com/upload/renaps.com/oracledblogo.png)
