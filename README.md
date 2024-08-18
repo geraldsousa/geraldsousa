@@ -16,13 +16,12 @@ Here are some ideas to get you started:
 -->
 
 
-🔭 I’m currently working on an Oracle OWT (I know) based web app.  The application uses Oracle19c as the backend RDBMS and Oracle Web Toolkit to present CRUD pages to users.  The Apache/Tomcat web front end uses Oracle Restful Data Services (ORDS) generated database access descriptors (DADS) to connect to the database.  Authentication is via an OAuth like web service and Authorization is accomplished using Oracle Roles inside the DB.
-
+🔭 I’m currently migrating an Oracle Forms 12 Application to Oracle APEX 23.1 running on Oracle 19c.  There is a ton of existing pl/sql code that we're trying to reuse.  The challenge is going to be figuring out what code we should keep and what we can get rid of.  The
 🌱 I’m currently building apps using:
 
 ![JS](https://www.pikpng.com/pngl/m/150-1506141_html-css-and-javascript-logo-html5-css3-js.png)
 
-[(https://images.app.goo.gl/hsYyCCsEHisHicPbA)](https://images.app.goo.gl/hsYyCCsEHisHicPbA)
+https://ggsitc.com/static/f81e5c89fa0e9e83b573a9b7ebfdfbed/c1587/Oracle_apex_logo_9c3e8bdfd2.webp
 
 ![Oracle](https://renaps.com/upload/renaps.com/oracledblogo.png)
 
