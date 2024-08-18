@@ -21,7 +21,5 @@ Here are some ideas to get you started:
 
 ![JS](https://www.pikpng.com/pngl/m/150-1506141_html-css-and-javascript-logo-html5-css3-js.png)
 
-https://ggsitc.com/static/f81e5c89fa0e9e83b573a9b7ebfdfbed/c1587/Oracle_apex_logo_9c3e8bdfd2.webp
-
 ![Oracle](https://renaps.com/upload/renaps.com/oracledblogo.png)
 
