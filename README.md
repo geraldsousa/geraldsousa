@@ -26,4 +26,3 @@ Here are some ideas to get you started:
 
 ![Oracle](https://renaps.com/upload/renaps.com/oracledblogo.png)
 
-⚡ Fun fact: I Love to golf. ⛳️
