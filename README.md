@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 
 ![JS](https://www.pikpng.com/pngl/m/150-1506141_html-css-and-javascript-logo-html5-css3-js.png)
 
-![Node/MongoDB/GraphQL](https://miro.medium.com/max/1113/1*rhpr5EnxrphBwqyTus0jmg.png)
 
 ![Oracle](https://renaps.com/upload/renaps.com/oracledblogo.png)
 
